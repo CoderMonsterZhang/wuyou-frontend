@@ -42,9 +42,3 @@
 
 ![](https://raw.githubusercontent.com/zhang2657977442/MyPicGo/master/wuyou-frontend/%E4%BF%AE%E6%94%B9%E8%85%BE%E8%AE%AF%E4%BD%8D%E7%BD%AE%E6%9C%8D%E5%8A%A1.png)
 
-
-如有问题请联系
-+ QQ：2657977449 
-+ 微信：zhang2657977449
-  
-<img src="https://github.com/zhang2657977442/MyPicGo/blob/master/other/qq.jpg?raw=true" alt="" width="30%"><img src="https://github.com/zhang2657977442/MyPicGo/blob/master/other/wechat.jpg?raw=true" alt="" width="30%">
